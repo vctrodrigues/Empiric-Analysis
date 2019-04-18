@@ -53,7 +53,8 @@ No caso acima, o programa vai executar todos os algoritmos de busca com 3500 vet
 
 ## 4. Resultado
 O software escreve os resultados obtidos em um arquivo `tempos.txt` na pasta `data`  com a seguinte estrutura:
-`N       ILS            IBS            ITS            IJS            IFS            RBS            RTS`           
+`N       ILS            IBS            ITS            IJS            IFS            RBS            RTS`    
+       
 |N|ILS|IBS|ITS|IJS|IFS|RBS|RTS|
 |-|---|---|---|---|---|---|---|
 |Número de Amostras|Tempo de execução|Tempo de execução|Tempo de execução|Tempo de execução|Tempo de execução|Tempo de execução|Tempo de execução|
